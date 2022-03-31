@@ -1,1 +1,3 @@
-# Bird-Image-Recongnition-Project
+**Google Colab Link - **  https://colab.research.google.com/github/DavidStrickland19/Bird-Image-Recongnition-Project/blob/main/Bird_Recognition.ipynb
+
+This project looks to use image recongition deep learning techniques to classify a dataset of Marylands top 10 most common birds. I collected the data using Google Chromes Fatkun extension. I then loaded them into Google colab. The deep learning package I used was Fastai. The very end ofthis project faces some difficulty as the runtime does not seem to go down and the program force quits. But the model is still able to run through the deep learnining process and show how accurately my model was able to predict any given picture of a bird from my dataset. I will eventually want to make this program user friendly by making it into an app.
